@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.vscode/
+gain/
+png/
+pre/
+alpha.ipynb
+beta1.ipynb
+beta2.ipynb
+*.zip
+train.ipynb
